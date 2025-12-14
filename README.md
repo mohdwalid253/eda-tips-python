@@ -36,7 +36,7 @@ The goal is to identify relationships between variables such as:
 | ![tips_perc_by_size_and_smoker](images/tips_perc_by_size_and_smoker.png) | Party Size and Smoking effect on tipping |
 | ![tips_avg_total_bill_by_day](images/tips_avg_total_bill_by_day.png) | Average Total Bill by Day |
 | ![tips_total_bill_distribution](images/tips_total_bill_distribution.png) | Distribution of Bill and Tip |
-| ![tips_heatmap_matrrix](images/tips_heatmap_matrrix.png) | Heatmap Matrix |
+| ![tips_heatmap_matrix](images/tips_heatmap_matrix.png) | Heatmap Matrix |
 
 ---
 
